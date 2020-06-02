@@ -1,0 +1,8 @@
+pdfminer.six
+ipykernel
+pandas
+matplotlib
+
+pyplotz
+
+requests
