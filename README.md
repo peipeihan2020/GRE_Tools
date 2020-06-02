@@ -6,3 +6,5 @@
 没有去重。
 
 可以在单词没背完或不熟悉的情况下，搭配word.csv刷机经。
+
+pdf提取部分参照https://www.jianshu.com/p/31939ee6f1c9
