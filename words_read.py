@@ -12,3 +12,6 @@ def read_red():
 
 def read_fojiao():
     return read_file(r'fojiao2.xlsx')
+
+def read_words():
+    return pd.read_csv(r'words.csv')

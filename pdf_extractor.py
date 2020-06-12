@@ -4,9 +4,8 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 
-def extract_pdf_content(pdf):
+def extract_pdf_content(pdf, start_page, after=True):
     rsrcmgr = PDFResourceManager()
-    codec = 'gb2312'
     outfp = StringIO()
     laparams = LAParams()
     device = TextConverter(rsrcmgr=rsrcmgr, outfp=outfp, laparams=laparams)
@@ -20,8 +19,11 @@ def extract_pdf_content(pdf):
         i =0
         for page in pages:
             i +=1
-            if i<6:
+            if i<start_page and after:
                 continue
+            elif not after:
+                if i >= start_page:
+                    break
             interpreter.process_page(page)
     mystr = outfp.getvalue()
     device.close()

@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da320c1-8f78-4673-a8c3-2cd97dac7010" name="Default Changelist" comment="" />
+    <list default="true" id="4da320c1-8f78-4673-a8c3-2cd97dac7010" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecdict/anayly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf/words_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-pdf-content-extract-batch-python-pdfminer-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-pdf-content-extract-batch-python-pdfminer-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fojiao2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/fojiao2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.csv" beforeDir="false" afterPath="$PROJECT_DIR$/words.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/words_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/words_read.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GRE_TC_Key_King_Words$words_extractor.coverage" NAME="words_extractor Coverage Results" MODIFIED="1591598157858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +30,15 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1cfhduFHqrCoX3kXTbljPiTbQe3" />
   <component name="ProjectViewState">
@@ -22,10 +48,38 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\GRE\words\GRE_TC_Key_King_Words" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.words_extractor">
+    <configuration name="anayly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo-pdf-content-extract-batch-python-pdfminer-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ecdict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ecdict/anayly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo-pdf-content-extract-batch-python-pdfminer-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,6 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -47,8 +102,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo-pdf-content-extract-batch-python-pdfminer-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="words_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo-pdf-content-extract-batch-python-pdfminer-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words_extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.upload" />
+      <item itemvalue="Python.words_extractor" />
+      <item itemvalue="Python.anayly" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.words_extractor" />
+        <item itemvalue="Python.anayly" />
+        <item itemvalue="Python.upload" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -66,54 +174,76 @@
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1338" height="466" key="DebuggerActiveHint" timestamp="1591015003533">
+    <state x="686" y="161" key="#words_extractor" timestamp="1591598275626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1338" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591015003533" />
-    <state x="790" y="375" key="FileChooserDialogImpl" timestamp="1590925911450">
+    <state x="686" y="161" key="#words_extractor/0.0.1920.1040@0.0.1920.1040" timestamp="1591598275626" />
+    <state width="1338" height="466" key="DebuggerActiveHint" timestamp="1591976454298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="790" y="375" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590925911450" />
-    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1591082395132">
+    <state width="1338" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591976454298" />
+    <state x="790" y="375" key="FileChooserDialogImpl" timestamp="1591610465934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1591082395132">
+    <state x="790" y="375" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591610465934" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1591977759021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1591082395131">
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591977759021" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1591977759021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395131" />
-    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1591082395132">
+    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591977759021" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1591977759021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1591082395132">
+    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591977759021" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1591977759021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1591082395132">
+    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591977759021" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1591977758957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1591082395132">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591977758957" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1591977758957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1591082395132">
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591977758957" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1591977758957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591082395132" />
-    <state x="514" y="263" key="SettingsEditor" timestamp="1590925916925">
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591977758957" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1591977758957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="514" y="263" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590925916925" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590955845190">
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591977758957" />
+    <state x="514" y="263" key="SettingsEditor" timestamp="1591967846898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590955845190" />
+    <state x="514" y="263" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591967846898" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1591903151946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591903151946" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591363472209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591363472209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/words_extractor.py</url>
+          <line>197</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
