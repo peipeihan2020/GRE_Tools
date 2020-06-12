@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da320c1-8f78-4673-a8c3-2cd97dac7010" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecdict/anayly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/words_save.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo-pdf-content-extract-batch-python-pdfminer-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-pdf-content-extract-batch-python-pdfminer-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fojiao2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/fojiao2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words.csv" beforeDir="false" afterPath="$PROJECT_DIR$/words.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/words_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/words_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/upload.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +228,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/words_extractor.py</url>
-          <line>197</line>
+          <line>195</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>

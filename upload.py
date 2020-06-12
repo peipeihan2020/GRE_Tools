@@ -2,8 +2,8 @@ import firebase_admin
 import google.cloud
 from firebase_admin import credentials, firestore
 
-cred = credentials.Certificate("gretest-475ba-firebase-adminsdk-m9sgv-243f75e6f1.json")
-# cred = credentials.Certificate("gretestchina-2d345-firebase-adminsdk-tfjrk-dc57294d4d.json")
+cred = credentials.Certificate("db\gretest-475ba-firebase-adminsdk-m9sgv-243f75e6f1.json")
+# cred = credentials.Certificate("db\gretestchina-2d345-firebase-adminsdk-tfjrk-dc57294d4d.json")
 app = firebase_admin.initialize_app(cred)
 
 store = firestore.client()
